@@ -1,0 +1,17 @@
+[
+null,
+{"id":1,"expanded":false,"name":"MAP001","order":8,"parentId":0,"scrollX":982.8,"scrollY":553.1999999999999},
+{"id":2,"expanded":true,"name":"규나단의 집","order":12,"parentId":3,"scrollX":982.8,"scrollY":553.1999999999999},
+{"id":3,"expanded":true,"name":"규나단 고향, 규스타운","order":9,"parentId":0,"scrollX":973.1999999999999,"scrollY":896.4},
+{"id":4,"expanded":true,"name":"씨풀풀의 집","order":10,"parentId":3,"scrollX":982.8,"scrollY":553.1999999999999},
+{"id":5,"expanded":true,"name":"규탄의 집","order":11,"parentId":3,"scrollX":982.8,"scrollY":553.1999999999999},
+{"id":6,"expanded":true,"name":"이스트그린 1도로","order":13,"parentId":0,"scrollX":2386.7999999999997,"scrollY":543.6},
+{"id":7,"expanded":true,"name":"제 1 야영지","order":14,"parentId":0,"scrollX":982.8,"scrollY":553.1999999999999},
+{"id":8,"expanded":true,"name":"규스타의 대장간","order":1,"parentId":0,"scrollX":982.8,"scrollY":553.1999999999999},
+{"id":9,"expanded":false,"name":"규스타의 방","order":2,"parentId":8,"scrollX":982.8,"scrollY":553.1999999999999},
+{"id":10,"expanded":true,"name":"샴샴왕국 1시방향","order":5,"parentId":0,"scrollX":982.8,"scrollY":553.1999999999999},
+{"id":11,"expanded":false,"name":"샴샴왕국 1시방향","order":4,"parentId":0,"scrollX":982.8,"scrollY":553.1999999999999},
+{"id":12,"expanded":false,"name":"규탄의 집","order":7,"parentId":10,"scrollX":982.8,"scrollY":553.1999999999999},
+{"id":13,"expanded":false,"name":"아이템 상점","order":6,"parentId":10,"scrollX":982.8,"scrollY":553.1999999999999},
+{"id":14,"expanded":false,"name":"대장간 일","order":3,"parentId":8,"scrollX":982.8,"scrollY":553.1999999999999}
+]
